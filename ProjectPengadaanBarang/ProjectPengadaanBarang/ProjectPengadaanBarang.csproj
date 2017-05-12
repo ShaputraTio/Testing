@@ -50,19 +50,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form_Segitiga.cs">
+    <Compile Include="FormPersegipanjang22.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_Segitiga.Designer.cs">
-      <DependentUpon>Form_Segitiga.cs</DependentUpon>
+    <Compile Include="FormPersegipanjang22.Designer.cs">
+      <DependentUpon>FormPersegipanjang22.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form_Segitiga.resx">
-      <DependentUpon>Form_Segitiga.cs</DependentUpon>
+    <EmbeddedResource Include="FormPersegipanjang22.resx">
+      <DependentUpon>FormPersegipanjang22.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
