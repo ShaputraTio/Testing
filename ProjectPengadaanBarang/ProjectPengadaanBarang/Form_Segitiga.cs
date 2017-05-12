@@ -10,17 +10,22 @@ using System.Windows.Forms;
 
 namespace ProjectPengadaanBarang
 {
-    public partial class Form1 : Form
+    public partial class Form_Segitiga : Form
     {
-        public Form1()
+        public Form_Segitiga()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form_Segitiga segitiga = new Form_Segitiga();
-            segitiga.Visible = true;
+            int tinggi = Convert.ToInt32(txtAngka1.Text);
+            int alas = Convert.ToInt32(txtAlas.Text);
+
+            int hasil = alas * tinggi;
+            hasil = hasil / 2;
+
+            label3.Text = hasil.ToString();
         }
     }
 }
