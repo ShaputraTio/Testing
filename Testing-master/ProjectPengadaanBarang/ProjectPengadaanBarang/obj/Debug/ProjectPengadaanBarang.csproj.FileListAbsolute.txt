@@ -1,0 +1,11 @@
+c:\users\tio saputra\documents\visual studio 2012\Projects\ProjectPengadaanBarang\ProjectPengadaanBarang\bin\Debug\ProjectPengadaanBarang.exe.config
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\bin\Debug\ProjectPengadaanBarang.exe.config
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\obj\Debug\ProjectPengadaanBarang.csprojResolveAssemblyReference.cache
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\obj\Debug\ProjectPengadaanBarang.Form1.resources
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\obj\Debug\ProjectPengadaanBarang.Properties.Resources.resources
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\obj\Debug\ProjectPengadaanBarang.csproj.GenerateResource.Cache
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\bin\Debug\ProjectPengadaanBarang.exe
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\bin\Debug\ProjectPengadaanBarang.pdb
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\obj\Debug\ProjectPengadaanBarang.exe
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\obj\Debug\ProjectPengadaanBarang.pdb
+C:\Users\Elfin Sanjaya\Downloads\Testing-master\ProjectPengadaanBarang\ProjectPengadaanBarang\obj\Debug\ProjectPengadaanBarang.FormPersegipanjang22.resources
