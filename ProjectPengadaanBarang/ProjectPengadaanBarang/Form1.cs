@@ -11,16 +11,18 @@ using System.Windows.Forms;
 namespace ProjectPengadaanBarang
 {
     public partial class Form1 : Form
-    {
-        public Form1()
+    {    public Form1()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            Form_Segitiga segitiga = new Form_Segitiga();
-            segitiga.Visible = true;
+            FormPersegipanjang22 x = new FormPersegipanjang22();
+      
+            
+            x.Visible = true;
+
         }
     }
 }
